@@ -23,13 +23,10 @@ Use the standard libraries in python for Gradient Design.
 
 ## Program:
 ```
-/*
 Program to implement the linear regression using gradient descent.
 Developed by: v,charan sai
 RegisterNumber: 212221240061
-*/
-```
-```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
